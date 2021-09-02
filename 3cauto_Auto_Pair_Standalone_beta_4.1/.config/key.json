@@ -1,9 +1,0 @@
-{
-	"3c_account":{
-		"key":"3CKEY", 
-        "secret":"3CSECRET",
-		
-        "wkey": "3CKEY",
-        "wsecret": "3CSECRET"
-	}	
-}
